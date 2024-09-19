@@ -2293,6 +2293,8 @@ section,
 .service-details h4 {
   font-size: 20px;
   font-weight: 700;
+  text-align: justify;
+
 }
 
 .service-details p {
